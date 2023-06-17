@@ -5,6 +5,11 @@ class Program
     static void Main(string[] args)
     {
         // Console.WriteLine("Hello Develop02 World!");
+
+        // Exceeds requirements
+        // I added new prompts by my own to the PromptGenerator.
+        // I changed the date format to show the time too.
+
         Console.WriteLine("Welcome to Digital Journal!");
         int inputMenu = 0;
         PromptGenerator promptGenerator = new PromptGenerator();
