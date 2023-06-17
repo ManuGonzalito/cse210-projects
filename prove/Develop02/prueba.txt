@@ -1,0 +1,4 @@
+17/06/2023 01:00,What was the best part of my day?,prueba
+17/06/2023 01:01,How I felt today?,prueba 2
+17/06/2023 01:02,What obstacles did I manage to overcome today?,pru3ba
+17/06/2023 01:04,How I felt today?,preuba 4
