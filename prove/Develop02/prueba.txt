@@ -2,3 +2,4 @@
 17/06/2023 01:01,How I felt today?,prueba 2
 17/06/2023 01:02,What obstacles did I manage to overcome today?,pru3ba
 17/06/2023 01:04,How I felt today?,preuba 4
+18/06/2023 17:08,If I had one thing I could do over today, what would it be?,I learn how to customize bash in Windows
